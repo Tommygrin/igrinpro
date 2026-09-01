@@ -25,3 +25,7 @@ h2 {color: darkgreen;
 nav {display: flex;
      gap: 30px;
      Justify-content: center;}
+nav a {
+     color: White;
+     text-decoration: none;
+     font-size: 12px;}
