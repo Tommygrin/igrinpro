@@ -4,7 +4,8 @@ body {background-color: lightgreen;
      font-family: Arial, Sans-serif;
      display: flex;
      flex-direction: column
-     aligb-items: center;}
+     aligb-items: center;
+     justify-content: center;}
 h1 {color: blue;}
 h1 {margin-bottom: 90px;}
 P {font-size: 40px;
