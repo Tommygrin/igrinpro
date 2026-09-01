@@ -30,3 +30,6 @@ nav a {
      text-decoration: none;
      font-size: 12px;}
 nav a:hover{ color:blue;}
+header { Backgroun-color: green;
+        padding: 30px;
+        margin-bottom: 40px;}
