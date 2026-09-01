@@ -1,4 +1,4 @@
-body {background-color: lightgreen;
+body {background-color: lightorange;
      text-align: center;
      padding: 40px;
      font-family: Arial, Sans-serif;
@@ -13,13 +13,13 @@ h1 {margin-bottom: 90px;
 P {font-size: 40px;
   border: 10px solid black;
   border-radius: 60px}
-h2 {color: darkgreen;
+h2 {color: darkred;
    font-family: 35px;
    padding: 10px;
-   border:8px solid red;
+   border:8px solid white;
    border-radius: 10px;}
 .about 
-{background-color: blue;
+{background-color: white;
  padding: 30px;
  border-radius: 10px;}
 nav {display: flex;
