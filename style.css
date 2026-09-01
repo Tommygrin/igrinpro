@@ -4,7 +4,7 @@ body {background-color: lightgreen;
      font-family: Arial, Sans-serif;
      display: flex;
      flex-direction: column
-     aligb-items: center;
+     align-items: center;
      justify-content: center;}
 h1 {color: blue;}
 h1 {margin-bottom: 40px;
@@ -14,7 +14,7 @@ P {font-size: 30px;
   border:2px solid black;
   border-radius: 8px}
 h2 {color: darkred;
-   font-family: 20px;
+   font-size: 20px;
    padding: 7px;
    border:2px solid white;
    border-radius: 1px;}
@@ -24,7 +24,7 @@ h2 {color: darkred;
  border-radius: 10px;}
 nav {display: flex;
      gap: 30px;
-     Justify-content: center;}
+     justify-content: center;}
 nav a {
      color: red;
      text-decoration: none;
