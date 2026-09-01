@@ -20,8 +20,8 @@ h2 {color: darkgreen;
    border-radius: 10px;}
 .about 
 {background-color: blue;
- padding: 30px
+ padding: 30px;
  border-radius: 10px;}
 nav {display: flex;
-     gap: 30px
+     gap: 30px;
      Justify-content: center;}
