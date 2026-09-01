@@ -33,3 +33,10 @@ nav a:hover{ color:yellow;}
 header { Background-color: orange;
         padding: 30px;
         margin-bottom: 5px;}
+button {
+     background-color: blue;
+     color: white;
+     padding:15px 30px;
+     border: none;
+     border-radius: 18px}
+button:hover
