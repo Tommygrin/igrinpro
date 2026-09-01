@@ -1,5 +1,6 @@
 body {background-color: lightgreen;
-     text-align: center;}
+     text-align: center;
+     padding: 40px;}
 h1 {color: blue;}
 h1 {margin-bottom: 90px;}
 P {font-size: 40px;}
