@@ -22,3 +22,6 @@ h2 {color: darkgreen;
 {background-color: blue;
  padding: 30px
  border-radius: 10px;}
+nav {display: flex;
+     gap: 30px
+     Justify-content: center;}
