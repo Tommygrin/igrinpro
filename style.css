@@ -4,6 +4,9 @@ body {background-color: lightgreen;
      font-family: Arial, Sans-serif;}
 h1 {color: blue;}
 h1 {margin-bottom: 90px;}
-P {font-size: 40px;}
-h2 {color: darkgreen;}
+P {font-size: 40px;
+  border: 2px solid black;
+  border-radius: 10px}
+h2 {color: darkgreen;
+   font-family: 35px;}
 
