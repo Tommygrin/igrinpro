@@ -45,7 +45,7 @@ button {
      border: none;
      border-radius: 30px
      transition: 0.9s;
-box-shadow: 10px 10px 20px red;}
+box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);}
 button:hover {background-color: yellow;
              transform: scale(1.05);}
 @media (max-width:600px) {
