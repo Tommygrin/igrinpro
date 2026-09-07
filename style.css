@@ -34,7 +34,7 @@ display: grid;
 grid-template-columns: 1fr 1fr;
 gap: 20px;
 grid-template-rows: auto auto; 
-justify-items: center;}
+align-items: center;}
 
 nav {display: flex;
      gap: 30px;
@@ -77,7 +77,7 @@ button:hover {background-color: yellow;
      margin-bottom: 40px;
 box-shadow: 0 5px 15px grey;}
 
-.about img { width: 300th;
-            height: 200;
-     boder-radius: 30px;
+.about img { width: 100th;
+            height: auto;
+     boder-radius: 15px;
            object-fit: cover;}
