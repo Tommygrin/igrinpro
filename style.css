@@ -76,3 +76,7 @@ button:hover {background-color: yellow;
      font-size: 180px;
      margin-bottom: 40px;
 box-shadow: 0 5px 15px grey;}
+
+.about img { width: 100th;
+            height: auto;
+     boder-radius: 15px;}
