@@ -34,7 +34,7 @@ display: grid;
 grid-template-columns: 1fr 1fr;
 gap: 20px;
 grid-template-rows: auto auto; 
-justify-items: center;}
+justify-items: end;}
 
 nav {display: flex;
      gap: 30px;
