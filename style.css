@@ -79,4 +79,5 @@ box-shadow: 0 5px 15px grey;}
 
 .about img { width: 300th;
             height: 200;
-     boder-radius: 30px;}
+     boder-radius: 30px;
+           object-fit: cover;}
