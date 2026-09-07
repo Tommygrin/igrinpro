@@ -65,7 +65,9 @@ button:hover {background-color: yellow;
      nav {gap:15px;}
      img { width: 300px;
           height: auto;
-          border-radius: 15px}
+          border-radius: 15px
+         .about {grid-template: 1fr;
+          }
 
 .hero {
      padding: 40px 20px;
